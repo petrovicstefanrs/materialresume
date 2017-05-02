@@ -24,8 +24,6 @@ Material Resumé is a web based resumé (curriculum vitae) generator/editor. Cur
 
 ## How to contribute:
 
-<p>Or:</p>
-
 * Download or fork the repository
 
 * Create a theme for the resume that works with the current code
